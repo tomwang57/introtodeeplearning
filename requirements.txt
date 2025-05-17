@@ -1,0 +1,10 @@
+torch >= 2.3.0             
+jupyterlab >= 4.0          
+mitdeeplearning >= 0.7.5         
+matplotlib >= 3.7.1        
+numpy >= 1.26, < 2.1       
+opencv-python >= 4.7.0
+tqdm >= 4.66.1 
+comet_ml >= 3.33.0
+scipy >= 1.10.1
+ipywidgets >= 8.0.0
